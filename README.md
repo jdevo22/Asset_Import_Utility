@@ -62,6 +62,8 @@ https://unity.com/legal/branding-trademarks
 
 Zip file icon designed by Smashicons from [Flaticon](https://www.flaticon.com/free-icons/zip-format)
 
+Box icon designed by Good Ware from [Flaticon](https://www.flaticon.com/free-icons/box)
+
 ## License
 
 This project is licensed under GNU GPL 3.0.
