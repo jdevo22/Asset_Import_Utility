@@ -54,6 +54,9 @@ This software interacts with the standard Unity project files and should be supp
 ### Trademarks
 
 This software is not sponsored by or affiliated with Unity Technologies or its affiliates. The Unity logo(s) are trademarks or registred trademarks of Unity Technologies or its affiliates in the U.S. and elsewhere.
+<!-- // Unity logo guidelines
+https://unity.com/legal/branding-trademarks
+-->
 
 ### Assets
 
