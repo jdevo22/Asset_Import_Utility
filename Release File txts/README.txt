@@ -1,12 +1,16 @@
-Asset Import Utility Version 1.0
+Asset Import Utility Version 1.1.0
 
-Currently only works with .fbx, .dae, and .blend object files.
+
+// Latest
+
+Version 1.1.0 changes how zip files are selected, switching from folder to individual file search. Folder search has been deprecated but will likely be re-implemented in a later release. 
+The .blend file type has been disabled due to not being processed correctly and will be re-enabled once compatibility has been fixed. 
 
 // Overview
 
 Simple Python script to unzip, rename, and move files into Unity projects.
 
-This script extracts all zipped folders in the specified path, renames textures files to the corresponding object, and moves all object files into an 'Imported Assets' folder and all texture files into a separate 'Textures' subfolder within the specified Unity project folder.
+This script extracts the specified zip files, renames textures files to the corresponding object, and moves all object files into an 'Imported Assets' folder and all texture files into a separate 'Textures' subfolder within the specified Unity project folder.
 
 // Supported Unity Versions
 
